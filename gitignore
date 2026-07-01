@@ -1,0 +1,13 @@
+# build artifacts
+*.o
+firehose_monitor
+
+# test binaries
+test_classify
+test_monitor
+test_signal
+test_leak
+
+# editor / OS cruft
+*.swp
+.DS_Store
